@@ -6,14 +6,14 @@
 npx create-next-app
 ```
 
-<!-- ## Add siteconfig.js
+## Add siteconfig.js
 
 ```json
 {
   "title": "myblog.com",
   "description": "This is cool"
 }
-``` -->
+``` 
 
 <!-- ## Folder structure
 
