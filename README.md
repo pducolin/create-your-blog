@@ -257,7 +257,7 @@ Health goth cliche synth next level craft beer, ennui jean shorts tacos chambray
 
 Let's try it!
 
-<!-- ## List all posts
+## List all posts
 
 ```js
 import Link from 'next/link'
@@ -340,7 +340,7 @@ const Index = ({ posts, title, description, ...props }) => {
 }
 
 export default Index
-``` -->
+```
 
 <!-- ## Push to Github
 
