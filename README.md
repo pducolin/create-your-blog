@@ -349,9 +349,9 @@ git remote add origin <github_repo_url>
 git push --set-upstream origin main
 ```
 
-<!-- ## Deploy to Netflify
+## Deploy to Netflify
 
-https://app.netlify.com/ -->
+https://app.netlify.com/ 
 
 <!-- ## Tailwind CSS
 
