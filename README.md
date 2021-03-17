@@ -102,7 +102,7 @@ export const getStaticProps = async () => {
 };
 ```
 
-<!-- ### Header
+### Header
 
 ```js
 import Link from "next/link";
@@ -146,7 +146,7 @@ export const Layout = ({ pageTitle, children }) => {
     </>
   );
 };
-``` -->
+```
 
 <!-- ## Dynamic Routes
 
