@@ -6,7 +6,7 @@
 npx create-next-app
 ```
 
-## Add siteconfig.js
+## Add siteconfig.json
 
 ```json
 {
