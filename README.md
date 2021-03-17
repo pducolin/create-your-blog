@@ -148,7 +148,7 @@ export const Layout = ({ pageTitle, children }) => {
 };
 ```
 
-<!-- ## Dynamic Routes
+## Dynamic Routes
 
 `pages/post/[postname].js`
 
@@ -255,7 +255,7 @@ I'm baby four dollar toast chambray health goth cold-pressed pinterest godard. H
 Health goth cliche synth next level craft beer, ennui jean shorts tacos chambray lo-fi. Bicycle rights literally ugh hashtag tumblr unicorn. Selfies typewriter bespoke migas irony ennui dreamcatcher. Austin heirloom whatever fanny pack put a bird on it keytar kickstarter locavore swag listicle gochujang hoodie. Authentic portland sustainable farm-to-table, sriracha hoodie intelligentsia slow-carb cloud bread prism helvetica cray normcore. Irony authentic XOXO gentrify single-origin coffee literally.
 ```
 
-Let's try it! -->
+Let's try it!
 
 <!-- ## List all posts
 
