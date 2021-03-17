@@ -47,7 +47,7 @@ export const getStaticProps = async () => {
 };
 ```
 
-<!-- ## Components
+## Components
 
 * `Header.js`
 * `Layout.js`
@@ -146,7 +146,7 @@ export const Layout = ({ pageTitle, children }) => {
     </>
   );
 };
-``` --> -->
+``` -->
 
 <!-- ## Dynamic Routes
 
