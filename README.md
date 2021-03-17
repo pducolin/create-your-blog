@@ -15,7 +15,7 @@ npx create-next-app
 }
 ``` 
 
-<!-- ## Folder structure
+## Folder structure
 
 ```bash
 components/
@@ -24,8 +24,8 @@ pages/
 posts/
 public/
   static/
-``` -->
-<!-- 
+```
+
 ## Homepage
 
 ```js
@@ -45,7 +45,7 @@ export const getStaticProps = async () => {
     },
   };
 };
-``` -->
+```
 
 <!-- ## Components
 
