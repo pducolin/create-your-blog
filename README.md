@@ -53,7 +53,7 @@ export const getStaticProps = async () => {
 * `Layout.js`
 * `PostList.js`
 
-<!-- ### Layout
+### Layout
 
 ```js
 import Head from "next/head";
@@ -100,7 +100,7 @@ export const getStaticProps = async () => {
     },
   };
 };
-``` -->
+```
 
 <!-- ### Header
 
