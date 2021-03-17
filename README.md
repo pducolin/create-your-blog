@@ -353,7 +353,7 @@ git push --set-upstream origin main
 
 https://app.netlify.com/ 
 
-<!-- ## Tailwind CSS
+## Tailwind CSS
 
 ```bash
 yarn add --dev tailwindcss@latest postcss@latest autoprefixer@latest @tailwindcss/typography
@@ -391,4 +391,4 @@ Use it to style markdown
 <div className="prose mx-6 md:mx-8 lg:mx-12 max-w-none">
   <ReactMarkdown renderers={renderers}>{markdownBody}</ReactMarkdown>
 </div>
-``` -->
+```
